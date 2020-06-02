@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1010662957362",
+    "firebase_url": "https://hacknu-562fa.firebaseio.com",
+    "project_id": "hacknu-562fa",
+    "storage_bucket": "hacknu-562fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010662957362:android:ba7232d3237c279a16b72b",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010662957362-74s9m8f1vb4i4culhg2k8tc04ht0q6ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs2iRzfvD1OFAk_9qgwPKA9-TlLaOVNpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010662957362-74s9m8f1vb4i4culhg2k8tc04ht0q6ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+{
+  "remove": [
+    "io.flutter:armeabi_v7a_debug:1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32",
+    "io.flutter:arm64_v8a_debug:1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32",
+    "io.flutter:x86_debug:1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32",
+    "io.flutter:x86_64_debug:1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32"
+  ],
+  "add": []
+}
